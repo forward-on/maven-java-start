@@ -4,6 +4,11 @@
 build
 target/
 
+mavenjavastart.iml
+.gitignore
+
+src/main/test/
+
 *.jar
 *.war
 *.ear
@@ -51,7 +56,3 @@ captures/
 .classpath
 .project
 
-mavenjavastart.iml
-.gitignore
-
-src/main/test/
